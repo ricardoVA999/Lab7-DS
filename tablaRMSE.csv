@@ -2,5 +2,6 @@
 Metodo/Datos,Nacimiento,Shampoo,Temperatura,Carros
 Promedio,1.51,107.88,0.84,1620.29
 SARIMA,9.85,312.03,6.02,1823.09
-Holt-Winter,7.79,165.96,2.17,3108.64
-Red Neuronal,0.19 (Ganador),0.28 (Ganador),,0.23 (Ganador)
+Holt-Winter,7.79,165.96,2.37,3108.64
+Red Neuronal,1.59 (Ganador),6.80 (Ganador),0.83 (Ganador),35.53 (Ganador)
+Prophet,3.65,69.55,1.97,2895.31
